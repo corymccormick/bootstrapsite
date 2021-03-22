@@ -1,0 +1,20 @@
+body{
+  min-height: 100vh;
+  display:flex;
+  flex-direction:column;
+}
+
+.lodgeimage{
+  background-image: url('/assets/TheBlackLodge.png');
+  background-size: cover;
+  background-position: center;
+  padding: 10em;
+}
+
+.picrow{
+  height: 300px;
+  overflow: hidden;
+  padding-bottom: 5em;
+}
+
+
